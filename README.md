@@ -3,14 +3,14 @@
 
 
 ## 🚀 About Me
-I'm a full Front-End developer...
+A passionate frontend developer...
 
 
-## 🛠 Skills
+## 🛠 My Skills
 HTML, CSS, Javascript, Bootstrap, Tailwind CSS,     React, Redux, SQL, Material UI...
 
 
-## Other Common Github Profile Sections
+##
 🧠 I’m currently learning React and its other useful Library's
 
 💬 Ask me about react, redux, JavaScript
