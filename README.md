@@ -25,12 +25,6 @@ HTML, CSS, Javascript, Bootstrap, Tailwind CSS,     React, Redux, SQL, Material 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## Dynamic Quotes on GitHub Readme:
-  
----
-  
-<h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Some Random Data!</h3 quote>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ritikraj2227.github.io/Portfolio/)
