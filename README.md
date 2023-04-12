@@ -21,6 +21,9 @@ HTML, CSS, Javascript, Bootstrap, Tailwind CSS,     React, Redux, SQL, Material 
 
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ritikraj2227.github.io/Portfolio/)
