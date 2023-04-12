@@ -21,7 +21,7 @@ HTML, CSS, Javascript, Bootstrap, Tailwind CSS,     React, Redux, SQL, Material 
 
 
 
-### ✍️ Random Dev Quote
+### ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
