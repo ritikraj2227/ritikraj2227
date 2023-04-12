@@ -10,7 +10,7 @@ A passionate frontend developer...
 HTML, CSS, Javascript, Bootstrap, Tailwind CSS,     React, Redux, SQL, Material UI...
 
 
-
+##
 🧠 I’m currently learning React and its other useful Library's
 
 💬 Ask me about react, redux, JavaScript
