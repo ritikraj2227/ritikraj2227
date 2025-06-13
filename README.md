@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-A passionate frontend developer...
+MERN stack developer with 2 years of experience in building dynamic and responsive web applications. Skilled in frontend and backend development, with expertise in modern Ul frameworks, authentication mechanisms, and database management. Passionate about creating seamless user experiences and optimizing performance Proficient in developing full-stack applications using React.js Nextjs, and ensuring high performance scalability, Experienced in working with RESTful APIs, server-side rendering (SSR), and static site generation (SSC) In Next.js Adept at state management solutions like Redux, and React Contest APL. Strong understanding of component-based architecture, reusable Ul components, and performance optimizations Farmiliar with unit testing, and best practices for maintaining scalable and maintainable codebases.
 
 
 ## 🛠 My Skills
