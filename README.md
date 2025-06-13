@@ -17,7 +17,7 @@ HTML, CSS, Javascript, Bootstrap, Tailwind CSS,     React, Redux, SQL, Material 
 
 👨‍💻 All of my projects are available at [https://github.com/ritikraj2227](https://github.com/ritikraj2227)
 
- 📫 How to reach me **ritikraj025@gmail.com**
+ 📫 How to reach me **rajvermma025@gmail.com**
 
 
 
